@@ -1,8 +1,7 @@
 ipyvolume
+ipywidgets
 numpy
 matplotlib
 pandas
-jupyterlab
 notebook
-ipywidgets
-
+jupyterlab
