@@ -5,3 +5,4 @@ matplotlib
 pandas
 notebook
 jupyterlab
+ipython_genutils
