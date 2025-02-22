@@ -1,0 +1,13 @@
+name: mybinder-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - ipyvolume
+  - ipywidgets
+  - numpy
+  - matplotlib
+  - pandas
+  - notebook
+  - jupyterlab
+  - ipython_genutils
