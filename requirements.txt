@@ -2,3 +2,7 @@ ipyvolume
 numpy
 matplotlib
 pandas
+jupyterlab
+notebook
+ipywidgets
+
